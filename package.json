@@ -1,0 +1,16 @@
+{
+  "name": "shard-bot",
+  "version": "1.0.0",
+  "description": "um simples bot com sharding",
+  "main": "./index.js",
+  "scripts": {
+    "dev": "nodemon ./index.js",
+    "start": "node ./index.js"
+  },
+  "author": "white",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "fs": "0.0.1-security"
+  }
+}
